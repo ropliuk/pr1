@@ -4,3 +4,4 @@ tu jest linia dodana na zostusiu
 abc
 def
 ghi
+tutaj linia dodana na glapku
